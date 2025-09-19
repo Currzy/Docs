@@ -16,7 +16,7 @@ hero:
       text: Документация
       link: /ru/docs
   image:
-    src: /public/currzy.png
+    src: /currzy.png
     alt: VitePress
 
 features:
